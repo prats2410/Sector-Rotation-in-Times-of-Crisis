@@ -1,7 +1,7 @@
 # A Sector Rotation Strategy That Beats the Market Handily, Especially During Crises
 
 
-This is the github repository contains the codes that have been used for the research paper: A Sector Rotation Strategy That Beats the Market Handily, Especially During Crises. 
+This is the github repository that contains the codes that have been used for the research paper: A Sector Rotation Strategy That Beats the Market Handily, Especially During Crises. 
 It also contains the final results of these codes. 
 The codes have been completely scripted in python.
 
